@@ -11,7 +11,7 @@ class Order < ApplicationRecord
   private
 
   def set_price
-    final_prince = 0
+    final_price = 0
     order_products.each do |op|
       final_price += op.quantity * op.product.price
     end
