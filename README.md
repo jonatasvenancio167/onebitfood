@@ -2,7 +2,7 @@
 
 <p align='center'>Um app baseado na arquitetura do ifood</p>
 
-<img src='public/tela_app.png'>
+<img src='public/tela_app.gif'>
 
 ## 🛠 Tecnologias 
 
